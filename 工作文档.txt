@@ -23,3 +23,15 @@ _slots_:¶ÔclassµÄÊôÐÔ½øÐÐÏÞÖÆ£¬Ö»ÔÊÐí°ó¶¨Ïà¹Ø¶¨Òå¡£Ö»¶Ôµ±Ç°ÀàÓÐ×÷ÓÃ£¬¶Ô×ÓÀàÎÞ×÷Ó
 2018.10.17
 @×°ÊÎÆ÷ £¬½«ÏÂÒ»¸öº¯Êý×÷ÎªÊäÈë²ÎÊýÌ×½ø×°ÊÎÆ÷ÖÐµÄº¯ÊýÄÚ¡£
 
+2018.10.18
+_slot_¶Ô¼Ì³ÐµÄ×ÓÀà²»Æð×÷ÓÃ¡£
+
+2018.10.23
+type()º¯Êý¼È¿ÉÒÔ·µ»ØÒ»¸ö¶ÔÏóµÄÀàÐÍ£¬ÓÖ¿ÉÒÔ´´½¨³öÐÂµÄÀàÐÍ£¬±ÈÈç£¬ÎÒÃÇ¿ÉÒÔÍ¨¹ýtype()º¯Êý´´½¨³öHelloÀà£¬
+¶øÎÞÐèÍ¨¹ýclass Hello(object)...µÄ¶¨Òå¡£
+
+Òª´´½¨Ò»¸öclass¶ÔÏó£¬type()º¯ÊýÒÀ´Î´«Èë3¸ö²ÎÊý£º
+
+1.classµÄÃû³Æ£»
+2.¼Ì³ÐµÄ¸¸Àà¼¯ºÏ£¬×¢ÒâPythonÖ§³Ö¶àÖØ¼Ì³Ð£¬Èç¹ûÖ»ÓÐÒ»¸ö¸¸Àà£¬±ðÍüÁËtupleµÄµ¥ÔªËØÐ´·¨£»
+3.classµÄ·½·¨Ãû³ÆÓëº¯Êý°ó¶¨£¬ÕâÀïÎÒÃÇ°Ñº¯Êýfn°ó¶¨µ½·½·¨ÃûhelloÉÏ¡£
